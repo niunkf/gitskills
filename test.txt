@@ -4,3 +4,5 @@ master add
 =======
 feature1 add
 merge add
+
+merge commit
